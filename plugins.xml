@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin id="ru.mts.mtstv.vkompose"
+            url="https://github.com/VKCOM/vkompose/raw/refs/heads/master/idea-plugin/vkompose/vkompose-0.4.1-Meerkat.jar">
+        <name>Vkompose</name>
+        <description>Плагин Vkompose для проверки на stable и skippable</description>
+        <idea-version since-build="221" until-build="251.*" />
+        <version>0.4.1-Meerkat</version>
+    </plugin>
+</plugins>
