@@ -17,4 +17,12 @@
         <idea-version since-build="221" until-build="251.*" />
         <version>0.4.1-Meerkat</version>
     </plugin>
+    <plugin id="ru.default.gft-templates"
+        url="https://github.com/ZeratulTeal/default-idea-plugins/raw/refs/heads/main/ArchitecturalTemplates.jar">
+    <name>default-GFT_templates</name>
+    <description>
+        Генерация кода</description>
+    <idea-version since-build="221" until-build="251.*" />
+    <version>0.4.1-Meerkat</version>
+    </plugin>
 </plugins>
